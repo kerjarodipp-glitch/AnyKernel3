@@ -4,15 +4,15 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=StormBreaker Kernel for Surya
-maintainer.string1=Forenche TG: @GigaChadCat
+kernel.string=Kernel for Surya
+maintainer.string1=AnotherVyn
 do.devicecheck=1
 do.modules=0
 do.cleanup=1
 do.cleanuponabort=1
 device.name1=surya
 device.name2=karna
-supported.versions=10-15
+supported.versions=10-13
 '; } # end properties
 
 # shell variables
